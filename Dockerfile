@@ -12,8 +12,6 @@ WORKDIR /rhb_technology_radar
 
 RUN apt-get install -y npm
 
-#RUN npm install fs-extra
-
 RUN npm i aoe_technology_radar
 
 RUN npx aoe_technology_radar-buildRadar
