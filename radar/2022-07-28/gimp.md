@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "GNU Image Manipulation Program (GIMP)"
 ring:       adopt
 quadrant:   tools
 ---

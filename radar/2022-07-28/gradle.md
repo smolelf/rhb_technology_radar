@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Gradle"
 ring:       adopt
 quadrant:   tools
 ---

@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Putty"
 ring:       adopt
 quadrant:   tools
 ---

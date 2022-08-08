@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Atlassian Confluence"
 ring:       adopt
 quadrant:   tools
 ---

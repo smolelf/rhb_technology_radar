@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Eclipse"
 ring:       adopt
 quadrant:   tools
 ---

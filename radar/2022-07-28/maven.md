@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Maven"
 ring:       adopt
 quadrant:   tools
 ---

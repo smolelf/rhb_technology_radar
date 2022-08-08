@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Open JDK 11"
 ring:       adopt
 quadrant:   tools
 ---

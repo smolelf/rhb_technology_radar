@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "GoGs"
 ring:       adopt
 quadrant:   tools
 ---

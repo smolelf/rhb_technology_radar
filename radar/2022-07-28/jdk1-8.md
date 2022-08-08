@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "JDK 1.8"
 ring:       adopt
 quadrant:   tools
 ---

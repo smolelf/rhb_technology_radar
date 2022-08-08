@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "DBeaver"
 ring:       adopt
 quadrant:   tools
 ---

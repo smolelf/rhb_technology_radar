@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Node Package Manager (NPM)"
 ring:       adopt
 quadrant:   tools
 ---

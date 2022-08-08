@@ -1,6 +1,6 @@
 ---
-title:      "Apache Kafka"
-ring:       hold
+title:      "AWS ECR"
+ring:       assess
 quadrant:   platforms-and-aoe-services
 ---
 

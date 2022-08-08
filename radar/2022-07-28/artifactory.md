@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Artifactory"
 ring:       adopt
 quadrant:   tools
 ---

@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "Verdaccio"
 ring:       adopt
 quadrant:   tools
 ---

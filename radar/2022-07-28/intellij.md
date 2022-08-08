@@ -1,5 +1,5 @@
 ---
-title:      "Docker"
+title:      "IntelliJ"
 ring:       adopt
 quadrant:   tools
 ---
